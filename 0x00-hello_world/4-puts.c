@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/*
+/**
  * Puts a string to stdout
 */
 int main(void)
